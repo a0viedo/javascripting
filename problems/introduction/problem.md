@@ -1,33 +1,30 @@
 ---
-# INTRODUCTION
+# INTRODUCCIÓN
 
-Create a folder for this workshop. 
+Crea una carpeta para este whorkshop.
 
-Run this command, renaming the folder or changing the path however you need:
+Ejecuta el siguiente comando, cambiando el nombre de la carpeta o colocando el path que necesites:
 
 `mkdir javascripting`
 
-Change directory into the `javascripting` folder:
+Cambia de directorio a la carpeta que acabas de crear:
 
 `cd javascripting`
 
-Create a file named `introduction.js`:
+Crea un archivo llamado `intro.js`:
 
-`touch introduction.js`
-
-Add this text to the file:
+Agrega el siguiente texto al archivo:
 
 ```js
-console.log('hello');
+console.log('hola');
 ```
   
-Check to see if your program is correct by running this command:
+Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
-`javascripting verify introduction.js`
+`javascripting verify intro.js`
 
 ---  
   
 
-  
-> **Need help?** View the README for this workshop: github.com/sethvincent/javascripting
+> **Necesitas ayuda?** Vista el README de este workshop: github.com/sethvincent/javascripting
 

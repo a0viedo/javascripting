@@ -1,11 +1,11 @@
 ---
 
-# THE TOTAL IS 45
+# EL TOTAL ES 45
 
-That is a basic introduction to for loops, which are handy in a number of situations, particularly in combination with other data types like strings and arrays.
+Esta es una introducción básica al uso de for, lo cual es útil en muchas situaciones, particularmente en combinación con otras tipos de datos cómo arrays o strings.
 
-In the next challenge we'll start working with **arrays**.
+En el siguiente ejercicio empezaremos a trabajar con **arrays**.
 
-Run `javascripting` in the console to choose the next challenge.
+Ejecuta `javascripting` en la consola para seleccionar el siguiente ejercicio.
 
 ---

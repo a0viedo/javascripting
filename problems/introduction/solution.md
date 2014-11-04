@@ -1,21 +1,21 @@
 ---
 
-# YOU DID IT!
+# LO HICISTE!
 
-Anything between the parentheses of `console.log()` are printed to the terminal.
+Todo lo que esté dentro de los parentesis de `console.log()` será impreso a la terminal.
 
-So this: 
+Entonces esto: 
 
 ```js
-console.log('hello');
+console.log('hola mundo');
 ```
 
-prints `hello` to the terminal.
+imprime `hola mundo` a la terminal.
 
-Currently we are printing a **string** of characters to the terminal: `hello`.
+En particular, estamos imprimiendo una **string** o cadena de caracteres a la terminal: `hola mundo`.
 
-In the next challenge we focus on learning about **strings**.
+En el siguiente ejercicio nos concentramos en aprender más acerca de **strings**.
 
-Run `javascripting` in the console to choose the next challenge.
+Ejecuta `javascripting` en la consola para seleccionar el siguiente ejercicio.
 
 ---

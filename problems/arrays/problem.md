@@ -2,21 +2,21 @@
 
 # ARRAYS
 
-An array is a list of values. Here's an example:
+Un array es una lista ordenada de elementos. Por ejemplo:
 
 ```js
-var pets = ['cat', 'dog', 'rat'];
+var mascotas = ['gato', 'perro', 'conejo'];
 ```
 
 ### The challenge:
 
-Create a file named `arrays.js`.
+Crea un archivo llamado `arrays.js`
 
-In that file define a variable named `pizzaToppings` that references an array that contains three strings in this order: `tomato sauce, cheese, pepperoni`.
+En ese archivo define una variable llamada `condimentos` que referencie a un array el cual contenga los siguientes elementos: `"salsa de tomate", "queso" y "aceitunas"`
 
-Use `console.log()` to print the `pizzaToppings` array to the terminal.
+Utiliza `console.log()` para imprimir la variable `condimentos` a la terminal.
 
-Check to see if your program is correct by running this command:
+Comprueba si tu programa es correcto ejecutando el siguiente commando:
 
 `javascripting verify arrays.js`
 

@@ -1,38 +1,40 @@
 ---
 
-# ARRAY FILTERING
+# FILTRADO DE ARRAYS
 
-There are many ways to manipulate arrays. 
+Los arrays poseen métodos predefinidos que nos permiten manipularlos.
 
-One common task is filtering arrays to only contain certain values.
+Por ejemplo, los métodos `forEach`, `map`, `some` y `filter` son bastante utilizados.
 
-For this we can use the `.filter()` method.
+Algo muy común es filtrar arrays para que contengan sólo ciertos valores.
 
-Here is an example:
+Para esto podemos utilizar el método `.filter`.
+
+Por ejemplo:
 
 ```js
-var pets = ['cat', 'dog', 'elephant'];
+var mascotas = ['gato', 'perro', 'elefante'];
 
-var filtered = pets.filter(function (pet) {
-  return (pet !== 'elephant');
+var filtrados = mascotas.filter(function (mascota) {
+  return (mascota !== 'elephant');
 });
 ```
 
-The `filtered` variable will now only contain `cat` and `dog`.
+La variable `filtrados` será igual a un array que contiene solo `gato` y `perro`.
 
-## The challenge:
+## El ejercicio:
 
-Create a file named `array-filtering.js`.
+Crea un archivo llamado `array-filtering.js`.
 
-In that file, define a variable named `numbers` that references this array:
+En ese archivo, define una variable llamada `numeros` que referencie al siguiente array:
 
 ```js
 [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 ```
 
-Like above, define a variable named `filtered` that references the result of `numbers.filter()`.
+Luego, define una variable llamada `filtrados` que referencie el resultado de `numeros.filter()`.
 
-The function that you pass to the `.filter()` method will look something like this:
+La función que recibe `.filter()` será algo cómo lo siguiente:
 
 ```js
 function evenNumbers (number) {
@@ -40,9 +42,9 @@ function evenNumbers (number) {
 }
 ```
 
-Use `console.log()` to print the `filtered` array to the terminal.
+Utiliza `console.log()` para imprimir el array filtrado a la terminal.
 
-Check to see if your program is correct by running this command:
+Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
 `javascripting verify array-filtering.js`
 

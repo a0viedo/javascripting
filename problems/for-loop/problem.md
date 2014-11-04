@@ -1,43 +1,44 @@
 ---
 
-# FOR LOOPS
+# FOR (BUCLES)
 
-For loops look like this:
+Un bucle for es como lo siguiente:
 
 ```js
-for (var i = 0; i < 10; i++) {
-  // log the numbers 0 through 9
-  console.log(i)
+for (var i = 0; i < 100; i++) {
+  // imprime los números del 0 al 99
+  console.log(i);
 }
 ```
 
-The variable `i` is used to track how many times the loop has run.
+Lo que se encuentra dentro de las llaves ({}), `console.log(i)`, se ejecutará por cada iteración del bucle.
 
-The statement `i < 10;` indicates the limit of the loop. 
-It will continue to loop if `i` is less than `10`.
+El termino `i < 10;` indica cuantas veces iterará.
 
-The statement `i++` increases the variable `i` by 1 each loop.
+Continuará iterando si `i` es menor que `10`.
 
-## The challenge:
+El termino `i++` incrementa la variable `i` en uno por cada iteración.
 
-Create a file named for-loop.js.
+## El ejercicio:
 
-In that file define a variable named `total` and make it equal the number `0`.
+Crea un archivo llamado for.js.
 
-Define a second variable named `limit` and make it equal the number `10`.
+En ese archivo define una variable llamada `total` e iniciala con el número `0`.
 
-Create a for loop in 10 iterations. On each loop, add the number `i` to the `total` variable.
+Define una segunda variable llamada `limite` e iniciala con el número `10`.
 
-You can use a statement like this one:
+Crea un for que itere 10 veces. En cada iteración, añade el valor de `i` a la variable `total`.
+
+Puedes utilizar lo siguiente:
 
 ```js
 total += i;
 ```
 
-After the for loop, use `console.log()` to print the `total` variable to the terminal.
+Luego del for, utiliza `console.log()` para imprimir la variable `total` a la terminal.
 
-Check to see if your program is correct by running this command:
+Comprueba si tu programa es correcto utilizando el siguiente comando:
 
-`javascripting verify for-loop.js`
+`javascripting verify for.js`
 
 ---

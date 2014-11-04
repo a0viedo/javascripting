@@ -11,7 +11,7 @@
   },
   "preferGlobal": true,
   "dependencies": {
-    "adventure": "^2.8.0",
+    "adventure": "git+ssh://git@github.com:a0viedo/adventure.git",
     "cli-md": "^0.1.0"
   }
 }
