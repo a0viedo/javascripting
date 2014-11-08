@@ -1,48 +1,47 @@
 ---
 
-# LOOPING THROUGH ARRAYS
+# RECORRIENDO ARRAYS
 
-For this challenge we will use a **for loop** to access and manipulate a list of values in an array.
+Para este ejercicio usaremos un bucle **for** para acceder y manipular una lista de valores en un array.
 
-Accessing array values can be done using an integer.
+Se puede acceder a los valores de un array utilizando un contador.
 
-Each item in an array is identified by a number, starting at `0`.
+Cada ítem en el array es identificado por un número, su índice, y empieza desde **cero**.
 
-So in this array `hi` is identified by the number `1`:
-
-```js
-var greetings = ['hello', 'hi', 'good morning'];
-```
-
-It can be accessed like this:
+Entonces en este àrray `que tal` es identificado por el número `1:
 
 ```js
-greetings[1];
+var saludos = ['hola', 'que tal', 'buen día'];
 ```
-
-So inside a **for loop** we would use the `i` variable inside the square brackets instead of directly using an integer.
-
-## The challenge:
-
-Create a file named `looping-through-arrays.js`.
-
-In that file, define a variable named `pets` that references this array:
+Puede ser accedido de la siguiente forma:
 
 ```js
-['cat', 'dog', 'rat'];
+saludos[1];
 ```
 
-Create a for loop that changes each string in the array so that they are plural.
+Entonces dentro de un bucle **for** utilizaremos la variable `ì` dentro de los corchetes.
 
-You will use a statement like this inside the for loop:
+## El ejercicio:
+
+Crea un archivo llamando `recorriendo-arrays.js`.
+
+En ese archivo, define una variable llamada `mascotas` que referencie este array:
 
 ```js
-pets[i] = pets[i] + 's';
+['gato', 'perro', 'tortuga'];
 ```
 
-Use `console.log()` to print the `pets` array to the terminal.
+Crea un bucle for que cambie cada string en el array para que sean plurales.
 
-Check to see if your program is correct by running this command:
+Usarás una sentencia parecida a la siguiente dentro del bucle:
+
+```js
+mascotas[i] = mascotas[i] + 's';
+```
+
+Utiliza `console.log()` para imprimir el array `mascotas` a la terminal.
+
+Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
 `javascripting verify looping-through-arrays.js`
 

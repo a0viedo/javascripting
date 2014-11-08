@@ -1,9 +1,11 @@
 ---
 
-# IF STATEMENT
+# BLOQUE CONDICIONAL
 
+Los bloques condicionales son utilizados, partiendo de una condición booleana específica, alterar el control de flujo de un programa.
 Conditional statements are used to, based in a specified boolean condition, alter the control flow of a program.
 
+Un bloque condicional se parece a lo siguiente:
 A conditional statement look like this:
 
 ```js
@@ -14,22 +16,22 @@ if(n > 1) {
 }
 ```
 
-Inside parenthesis you must enter a logic statement, meaning that should be either true or false. 
+Dentro de los paréntesis debes ingresar una sentencia lógica, significa que deberá ser verdadera (true) o falsa (false).
 
-The else block is optional and contains the code that will be executed if the statement it's false.
+El *else* block es opcional y contiene el código que será ejecutado si la sentencia lógica dentro de los paréntesis es falsa.
 
-## The challenge
+## El ejercicio
 
-Create a file named `if-statement.js`.
+Crea un archivo llamando `if-statement.js`
 
-In that file, declare a variable named `fruit`.
+En ese archivo, declara una variabe llamada `fruta`.
 
-Make the `fruit` variable reference the value **orange**.
+Haz la variable `fruta` referenciar al valor **naranja**
 
-Then use `console.log()` to print **The fruit name has more than five characters.** if the length of the value of `fruit` is greater than five.
-Print **The fruit name has less or equal than five characters.** otherwise.
+Luego utiliza `console.log()` para imprimir a la terminal **La cantidad de caracteres del nombre de la fruta es mayor a cinco.** si el length de la variable `fruta` es mayor a cinco.
+Imprime **La cantidad de caracteres del nombre de la fruta es menor o igual a cinco.**
 
-**Check to see if your program is correct by running this command:**
+Comprueba si tu programa funciona correctamente ejecutando el siguiente comando:
 
 `javascripting verify if-statement.js`
 

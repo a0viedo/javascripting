@@ -1,11 +1,11 @@
 ---
 
-# CONDITIONAL MASTER
+# MAESTRO CONDICIONAL
 
-You got it! The string `orange` has more than five characters.
+Lo haz hecho! La string `naranja` tiene más de cinco caracteres.
 
-Get ready to take on **for loops** next!
+Preparate para practicar **for loops** en el próximo ejercicio!
 
-Run `javascripting` in the console to choose the next challenge.
+Ejecuta `javascripting` en la consola para seleccionar el siguiente ejercicio.
 
 ---

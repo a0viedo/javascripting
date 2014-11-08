@@ -1,11 +1,11 @@
 ---
 
-# SUCCESS! LOTS OF PETS!
+# EXCELENTE! MUCHAS MASCOTAS!
 
-Now all the items in that `pets` array are plural!
+Ahora todos los ítems en el array `mascotas` son plurales!
 
-In the next challenge we will move from arrays to working with **objects**.
+En el siguiente ejercicio pasaremos de trabajar con arrays a trabajar con **objetos**.
 
-Run `javascripting` in the console to choose the next challenge.
+Ejecuta `javascripting` en la consola para seleccionar el siguiente ejercicio.
 
 ---

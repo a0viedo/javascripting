@@ -10,7 +10,7 @@ exports.fail = getFile(path.join(__dirname, 'troubleshooting.md'));
 
 exports.verify = function (args, cb) {
   run(args[0], function (err, result) {
-    var expected = "[ 'tomato sauce', 'cheese', 'pepperoni' ]\n";
+    var expected = "[ 'salsa de tomate', 'queso', 'aceitunas' ]\n";
     if (result && result.replace('"', "'") === expected) cb(true);
     else cb(false);
   });

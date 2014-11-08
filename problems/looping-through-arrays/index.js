@@ -10,7 +10,7 @@ exports.fail = getFile(path.join(__dirname, 'troubleshooting.md'));
 
 exports.verify = function (args, cb) {
   run(args[0], function (err, result) {
-    var expected = "[ 'cats', 'dogs', 'rats' ]\n";
+    var expected = "[ 'gatos', 'perros', 'tortugas' ]\n";
     if (result === expected) cb(true);
     else cb(false);
   });

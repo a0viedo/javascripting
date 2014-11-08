@@ -1,10 +1,11 @@
 ---
 
-# FUNCTION ARGUMENTS
+# ARGUMENTOS DE FUNCIÓN
 
-A function can be declared to receive arguments any number of arguments. Arguments can be from any type. An argument could be a string, a number, an array, an object and even another function.
+ FUNCTION ARGUMENTS
+Una función puede ser declarada para recibir cualquier número de argumentos. Los argumentos pueden ser de cualquier tipo. Por ejemplo, un argumento a una función podría ser una string, un número, un array, un objeto e incluso otra función.
 
-Here is an example:
+Un ejemplo:
 
 ```js
 function example (firstArg, secondArg) {
@@ -12,27 +13,30 @@ function example (firstArg, secondArg) {
 }
 ```
 
-We can **call** that function with two arguments like this:
+Podemos **llamar** a la función con dos argumentos de la siguiente forma:
+
 
 ```js
 example('hello', 'world');
 ```
 
-The above example will print to the terminal `hello world`.
+El ejemplo anterior imprimirá `hello world` a la terminal.
 
-## The challenge:
 
-Create a file named function-arguments.js.
+## El ejercicio:
 
-In that file, define a function named `math` that takes three arguments. It's important for you to understand that arguments names are only used to reference them. 
+Crea un archivo llamando function-arguments.js.
 
-Name each argument as you like. 
+En ese archivo, define una función llamada `math` que recibe trés argumentos. Es importante que entiendas que los nombres de los argumentos son únicamente utilizados para referenciarlos. 
+them. 
 
-The function `math` should multiply the second and third arguments, then add the first argument to the outcome of the multiplication and return the value obtained.
+Nombra cada parámetro cómo quieras.
 
-After that, inside the parentheses of `console.log()`, call the `math()` function with the number 53 as first argument, the number 61 as second and the number 67 as third argument.
+La función `math` deberá multiplicar el segundo y tercer argumento, y luego sumar el resultado con el primer argumento para luego retornar el valor obtenido.
 
-Check to see if your program is correct by running this command:
+Luego de eso, dentro de los paréntesis de `console.log()`, llamá la función `math()``con el número 53 cómo primer argumento, el número 61 cómo segundo argumento y el número 67 cómo tercero.
+
+Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
 `javascripting verify function-arguments.js` 
 

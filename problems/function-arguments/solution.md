@@ -1,9 +1,9 @@
 ---
 
-# YOU'RE IN CONTROL OF YOUR ARGUMENTS!
+# ESTAS EN CONTROL DE TUS ARGUMENTOS!
 
-Well done completing the excercise.
+Buen trabajo completando el ejercicio.
 
-Run `javascripting` in the console to choose the next challenge.
+Ejecuta `javascripting` en la consola para seleccionar el siguiente ejercicio.
 
 ---
