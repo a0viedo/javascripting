@@ -1,11 +1,11 @@
 ---
 
-# SUCCESS.
+# EXCELENTE.
 
-You are getting used to this string stuff!
+¡Te estas acostumbrando a esto de las strings!
 
-In the next challenges we will cover how to manipulate strings.
+En el siguiente ejercicio cubriremos cómo manipular strings.
 
-Run `javascripting` in the console to choose the next challenge.
+Ejecuta `javascripting` en la consola para seleccionar el siguiente ejercicio.
 
 ---

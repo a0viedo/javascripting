@@ -2,29 +2,29 @@
 
 # STRINGS
 
-A **string** is any value surrounded by quotes.
+Una **string** representa una cadena de caracteres y se puede definir con comillas dobles o simples.
 
-It can be single or double quotes:
-
-```js
-'this is a string'
-
-"this is also a string"
-```
-
-Try to stay consistent. In this workshop we'll only use single quotes.
-
-For this challenge, create a file named `strings.js`.
-
-In that file create a variable named `someString` like this:
+Por ejemplo:
 
 ```js
-var someString = 'this is a string';
+'esto es una string'
+
+"esto también es una string"
 ```
 
-Use `console.log` to print the variable **someString** to the terminal.
+Trata de permanecer consistente. En este workshop usaremos comillas simples.
 
-Check to see if your program is correct by running this command:
+Para este ejercicio, crea un archivo llamado `strings.js`.
+
+En ese archivo define una variable llamada `string1` de la siguiente forma:
+
+```js
+var string1 = 'esto es una string';
+```
+
+Utiliza `console.log` para imprimir la variable `string1` a la terminal.
+
+Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
 `javascripting verify strings.js`
 

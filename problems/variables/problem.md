@@ -2,33 +2,34 @@
 
 # VARIABLES
 
-A variable is a reference to a value. Define a variable using the `var` keyword.
+Una variable es una referencia a un valor. Define una variable usando la palabra reservada `var`
 
-Here's an example:
-
+Por ejemplo:
 ```js
 var example;
 ```
 
-The above variable is **declared**, but it isn't defined.
+La variable anterior es **declarada**, pero no definida.
 
-Here's an example of defining a variable, making it reference a specific value:
+A continuación damos un ejemplo de cómo definir una variable, haciendo que referencie a un valor específico:
 
 ```js
-var example = 'some string';
+var example = 'una string';
 ```
 
-Note that it starts with the `var` keyword and uses the equals sign between the variable name and the value that it references.
+Nota que empieza con la palabra reserva `var` y usa el signo de igualdad entre en nombre de la variable y el valor que referencia.
 
-Create a file named `variables.js`.
+# El ejercicio
 
-In that file create a variable named `example`.
+Crea un archivo llamado `variables.js`
 
-**Make the `example` variable reference the value `some string`.**
+En ese archivo crea una variable llamada `ejemplo`.
 
-Then use `console.log()` to print the `example` variable to the console.
+**Haz que la variable `ejemplo` referencie el valor `una string`.**
 
-Check to see if your program is correct by running this command:
+Luego usa `console.log()` para imprimir la variable `ejemplo` a la consola.
+
+Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
 `javascripting verify variables.js`
 ---

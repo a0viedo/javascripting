@@ -1,11 +1,11 @@
 ---
 
-# YOU CREATED A VARIABLE!
+# CREASTE UNA VARIABLE!
 
-Nice work. 
+Buen trabajo.
 
-In the next challenge we will look at strings more closely.
+En el siguiente ejercicio trabajaremos más en profundidad con strings.
 
-Run `javascripting` in the console to choose the next challenge.
+Ejecuta `javascripting` en la terminal para seleccionar el sigueinte ejercicio.
 
 ---
