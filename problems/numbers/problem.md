@@ -1,20 +1,20 @@
 ---
 
-# NUMBERS
+# NÚMEROS
 
-Numbers can be integers, like `2`, `14`, or `4353`, or they can be decimals,  
-also known as floats, like `3.14`, `1.5`, or '100.7893423'.
+Los números pueden ser enterios, cómo `3`, `5` o `3337`, o pueden ser decimales,
+cómo `3.14`, `1.5` o `100.7893423`.
 
-## The challenge:
+## El ejercicio:
 
-Create a file named numbers.js.
+Crea un archivo llamado numeros.js
 
-In that file define a variable named `example` that references the integer `123456789`.
+En ese archivo define una variable llamada `ejemplo` qué referencie el entero `123456789`.
 
-Use `console.log()` to print that number to the terminal.
+Utiliza `console.log` para imprimir ese número a la terminal.
 
-Check to see if your program is correct by running this command:
+Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
-`javascripting verify numbers.js`
+`javascripting verify numeros.js`
 
 ---

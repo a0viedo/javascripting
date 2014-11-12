@@ -1,11 +1,11 @@
 ---
 
-# YES, PIZZA _IS_ WONDERFUL.
+# SI, SEÑOR! LA PIZZA ES EXQUISITA
 
-Well done, with that `.replace()` method!
+¡Bien hecho con ese método `replace`!
 
-Next we will explore **numbers**.
+A continuación exploraremos los **números**.
 
-Run `javascripting` in the console to choose the next challenge.
+Ejecuta `javascripting` en la consola para seleccionar el siguiente ejercicio.
 
 ---

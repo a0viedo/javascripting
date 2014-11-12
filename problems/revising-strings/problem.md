@@ -1,34 +1,34 @@
 ---
 
-# REVISING STRINGS
+# MODIFICANDO STRINGS
 
-You will often need to change the contents of a string. 
+A menudo necesitarás cambiar el contenido de una string.
 
-Strings have built-in functionality that allow you to inspect and manipulate their contents.
+Las strings tienen una funcionalidad por defecto que te permite reemplazar caracteres.
 
-Here is an example using the `.replace()` method:
+Por ejemplo a continuación veremos un uso del método `replace`:
 
 ```js
-var example = 'this example exists';
-example = example.replace('exists', 'is awesome');
-console.log(example);
+var ejemplo = 'este ejemplo es simple';
+ejemplo = ejemplo.replace('simple', 'genial');
+console.log(ejemplo);
 ```
 
-Note that to change the value that the `example` variable references, we need  
-to use the equals sign again, this time with the `example.replace()` method to  
-the right of the equals sign.
+Nota que para cambiar el valor que la variable `ejemplo` referencia, 
+necesitamos utilizar el signo de igualdad de nuevo, esta vez con el resultado
+del método `ejemplo.replace` del lado derecho del signo.
 
-## The challenge:
+## El ejercicio:
 
-Create a file named `revising-strings.js`.
+Crea un archivo llamado `modificando-strings.js`.
 
-Define a variable named `pizza` that references this string: `pizza is alright`.
+Define una variable llamada `pizza` que referencie esta string: `la pizza es rica`
 
-Use the `.replace()` method to change `alright` to `wonderful`.
+Utiliza el método `.replace()` para cambiar `rica` con `exquisita`.
 
-Use `console.log()` to print the results of the `.replace()` method to the terminal.
+Luego, utiliza `console.log` para imprimir los resultados del método `replace` a la terminal.
 
-Check to see if your program is correct by running this command:
+Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
 `javascripting verify revising-strings.js`
 

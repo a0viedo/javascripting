@@ -14,6 +14,8 @@ Por ejemplo:
 
 Trata de permanecer consistente. En este workshop usaremos comillas simples.
 
+## El ejercicio
+
 Para este ejercicio, crea un archivo llamado `strings.js`.
 
 En ese archivo define una variable llamada `string1` de la siguiente forma:

@@ -1,9 +1,9 @@
 ---
 
-# WIN: 14 CHARACTERS
+# WIN: 17 CARACTERES
 
-You got it! The string `example string` has 14 characters.
+Lo hiciste! La string `una string de ejemplo` tiene 17 caracteres.
 
-Run `javascripting` in the console to choose the next challenge.
+Ejecuta `javascripting` en la consola para seleccionar el siguiente ejercicio.
 
 ---

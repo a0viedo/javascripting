@@ -1,11 +1,11 @@
 ---
 
-# YEAH! NUMBERS!
+# YEAH! NÚMEROS!
 
-Cool, you successfully defined a variable as the number `123456789`.
+Genial, has definido correctamente una variable con el valor `123456789`.
 
-In the next challenge we will look at manipulating numbers.
+En el siguiente ejercicio miraremos cómo manipular los números.
 
-Run `javascripting` in the console to choose the next challenge.
+Ejecuta `javascripting` en la consola para seleccionar el siguiente ejercicio.
 
 ---
