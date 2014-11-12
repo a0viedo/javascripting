@@ -1,7 +1,9 @@
 ---
 
-# WOOO BANANAS
+# PERFECTO
 
-You did it! You created a function that takes input, processes that input, and provides output.
+Lo hiciste! Creaste una función que toma una entrada, procesa esa entrada y genera un resultado.
 
+
+Ejecuta `javascripting` en la consola para seleccionar el siguiente ejercicio.
 ---

@@ -2,7 +2,7 @@
 
 # VARIABLES
 
-Una variable es una referencia a un valor. Define una variable usando la palabra reservada `var`
+Una variable es una referencia a un valor. Define una variable usando la palabra reservada `var`.
 
 Por ejemplo:
 ```js

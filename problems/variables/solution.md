@@ -2,7 +2,7 @@
 
 # CREASTE UNA VARIABLE!
 
-Buen trabajo.
+Buen trabajo.	
 
 En el siguiente ejercicio trabajaremos más en profundidad con strings.
 

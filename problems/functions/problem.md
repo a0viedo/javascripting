@@ -1,42 +1,46 @@
 ---
 
-# FUNCTIONS
+# FUNCIONES
 
-A function is a block of code that takes input, processes that input, and then produces output.
+Una función es un bloque de código que puede recibir un input y devolver un output.
 
-Here is an example:
+Vamos a utilizar la palabra reservada `return` para especificar lo que devuelve una funcioón.
 
+
+Por ejemplo
 ```js
-function example (x) {
+function ejemplo (x) {
   return x * 2;
 }
 ```
 
-We can **call** that function like this to get the number 10:
+Podemos **llamar** a la función de esta forma para obtener el número 10:
 
 ```js
-example(5)
+console.log(ejemplo(5))
 ```
 
+El ejemplo anterior asume que la función `ejemplo` recibirá un número cómo argumento –– input –– y retornará el número multiplicado por 2.
 The above example assumes that the `example` function will take a number as an argument –– as input –– and will return that number multiplied by 2.
 
-## The challenge:
+## El ejercicio:
 
-Create a file named functions.js.
+Crea una archivo llamando funciones.js
 
+En ese archivo, define una función llamada `comer` que reciba un argumento llamado `fruta` que será una string.
 In that file, define a function named `eat` that takes an argument named `food`  
 that is expected to be a string.
 
-Inside the function return the `food` argument like this:
+Dentro de la función, retorna el argumento `food` de la siguiente manera:
 
 ```js
-return food + ' tasted really good.';
+return 'las ' + fruta + ' son ricas.';
 ```
 
-Inside of the parentheses of `console.log()`, call the `eat()` function with the string `bananas` as the argument.
+Dentro de los parentesis de `console.log()`, llama a la función `eat()` con la string `bananas` cómo argumento.
 
-Check to see if your program is correct by running this command:
+Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
-`javascripting verify functions.js` 
+`javascripting verify funciones.js` 
 
 ---
