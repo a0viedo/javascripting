@@ -2,7 +2,6 @@
 
 # ARGUMENTOS DE FUNCIÓN
 
- FUNCTION ARGUMENTS
 Una función puede ser declarada para recibir cualquier número de argumentos. Los argumentos pueden ser de cualquier tipo. Por ejemplo, un argumento a una función podría ser una string, un número, un array, un objeto e incluso otra función.
 
 Un ejemplo:
