@@ -6,9 +6,11 @@ Para este ejercicio usaremos un bucle **for** para acceder y manipular una lista
 
 Se puede acceder a los valores de un array utilizando un contador.
 
-Cada ítem en el array es identificado por un número, su índice, y empieza desde **cero**.
+Cada ítem en el array es identificado por un número, su índice. 
 
-Entonces en este àrray `que tal` es identificado por el número `1:
+Los índices comienzan desde el cero.
+
+Entonces en este array, el elemento `que tal` es identificado por el número `1`:
 
 ```js
 var saludos = ['hola', 'que tal', 'buen día'];
@@ -43,6 +45,6 @@ Utiliza `console.log()` para imprimir el array `mascotas` a la terminal.
 
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
-`javascripting verify looping-through-arrays.js`
+`javascripting verify recorriendo-arrays.js`
 
 ---

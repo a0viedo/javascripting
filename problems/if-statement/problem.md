@@ -20,7 +20,7 @@ El *else* block es opcional y contiene el código que será ejecutado si la sent
 
 ## El ejercicio
 
-Crea un archivo llamando `if-statement.js`.
+Crea un archivo llamando `bloque-condicional.js`.
 
 En ese archivo, declara una variabe llamada `fruta`.
 
@@ -31,6 +31,6 @@ Imprime **La cantidad de caracteres del nombre de la fruta es menor o igual a ci
 
 Comprueba si tu programa funciona correctamente ejecutando el siguiente comando:
 
-`javascripting verify if-statement.js`
+`javascripting verify bloque-condicional.js`
 
 ---

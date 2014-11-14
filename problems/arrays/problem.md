@@ -8,7 +8,7 @@ Un array es una lista ordenada de elementos. Por ejemplo:
 var mascotas = ['gato', 'perro', 'conejo'];
 ```
 
-### The challenge:
+### El ejercicio:
 
 Crea un archivo llamado `arrays.js`
 

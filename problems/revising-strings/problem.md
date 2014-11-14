@@ -30,6 +30,6 @@ Luego, utiliza `console.log` para imprimir los resultados del método `replace` 
 
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
-`javascripting verify revising-strings.js`
+`javascripting verify modificando-strings.js`
 
 ---

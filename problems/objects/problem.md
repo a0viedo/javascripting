@@ -4,7 +4,7 @@
 
 Los objetos son en cierta forma contenedores y se los puede pensar cómo diccionarios.
 
-Tendrá ciertas **llaves** y cada una se verá referenciada a un valor.
+Tendrá ciertas **llaves** y cada una se verá referenciada a un **valor**.
 
 
 Por ejemplo:

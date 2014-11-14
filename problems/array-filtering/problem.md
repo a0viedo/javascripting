@@ -24,7 +24,7 @@ La variable `filtrados` será igual a un array que contiene solo `gato` y `perro
 
 ## El ejercicio:
 
-Crea un archivo llamado `array-filtering.js`.
+Crea un archivo llamado `filtrado-de-arrays.js`.
 
 En ese archivo, define una variable llamada `numeros` que referencie al siguiente array:
 
@@ -37,8 +37,8 @@ Luego, define una variable llamada `filtrados` que referencie el resultado de `n
 La función que recibe `.filter()` será algo cómo lo siguiente:
 
 ```js
-function evenNumbers (number) {
-  return number % 2 === 0;
+function numerosPares (numero) {
+  return numero % 2 === 0;
 }
 ```
 
@@ -46,6 +46,6 @@ Utiliza `console.log()` para imprimir el array filtrado a la terminal.
 
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
-`javascripting verify array-filtering.js`
+`javascripting verify filtrado-de-arrays.js`
 
 ---
