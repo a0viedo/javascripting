@@ -13,5 +13,6 @@
   "dependencies": {
     "adventure": "git+ssh://git@github.com:a0viedo/adventure.git",
     "cli-md": "^0.1.0"
-  }
+  },
+  "bundledDependencies": [ "adventure", "cli-md"]
 }
