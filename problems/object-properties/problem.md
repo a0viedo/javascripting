@@ -1,47 +1,47 @@
 ---
 
-# OBJECT PROPERTIES
+# PROPIEDADES DE OBJETOS
 
-You can access and manipulate object properties –– the keys and values that an object contains –– using a method very similar to arrays.
+Puedes acceder y manipular propiedades de objetos –– las **llaves** y **valores** que un objeto contiene –– utilizando una forma muy similar que con arrays. 
 
-Here's an example using **square brackets**:
+Un ejemplo usando **corchetes**:
 
 ```js
-var example = {
-  pizza: 'yummy'
+var ejemplo = {
+  programar: 'divertido'
 };
 
-console.log(example['pizza']);
+console.log(ejemplo['programar']);
 ```
 
-The above code will print the string `'yummy'` to the terminal.
+El código anterior imprimirá la string `divertido` al a terminal.
 
-Alternately, you can use **dot notation** to get identical results:
+Alternativamente, puedes usar la **notación de punto** para obtener resultados idénticos:
 
 ```js
-example.pizza;
+ejemplo.programar;
 
-example['pizza'];
+ejemplo['programar'];
 ```
 
-The two lines of code above will both return `yummy`.
+La dos líneas de código anteriores retornaran `divertido`.
 
-## The challenge:
+## El ejercicio:
 
-Create a file named `object-properties.js`.
+Crea un archivo llamado `propiedades-de-objetos.js`.
 
-In that file, define a variable named `food` like this:
+En ese archivo, define una variable llamada `bicicleta` de la siguiente forma:
 
 ```js
-var food = {
-  types: 'only pizza'
+var bicicleta = {
+  tipos: ['todo terreno', 'de carrera', 'hipster']
 };
 ```
 
-Use `console.log()` to print the `types` property of the `food` object to the terminal.
+Utiliza `console.log()` para imprimir la propiedad `tipos` del objeto `bicileta` a la terminal.
 
-Check to see if your program is correct by running this command:
+Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
-`javascripting verify object-properties.js`
+`javascripting verify propiedades-de-objetos.js`
 
 ---

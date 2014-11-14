@@ -3,16 +3,14 @@
 # BLOQUE CONDICIONAL
 
 Los bloques condicionales son utilizados, partiendo de una condición booleana específica, alterar el control de flujo de un programa.
-Conditional statements are used to, based in a specified boolean condition, alter the control flow of a program.
 
 Un bloque condicional se parece a lo siguiente:
-A conditional statement look like this:
 
 ```js
 if(n > 1) {
-  console.log('the variable n is greater than 1.');
+  console.log('la variable n es mayor a 1.');
 } else {
-  console.log('the variable n is less or equal than 1.');
+  console.log('la variable n es menor o igual a 1.');
 }
 ```
 
@@ -22,14 +20,14 @@ El *else* block es opcional y contiene el código que será ejecutado si la sent
 
 ## El ejercicio
 
-Crea un archivo llamando `if-statement.js`
+Crea un archivo llamando `if-statement.js`.
 
 En ese archivo, declara una variabe llamada `fruta`.
 
-Haz la variable `fruta` referenciar al valor **naranja**
+Haz la variable `fruta` referenciar al valor **naranja**.
 
 Luego utiliza `console.log()` para imprimir a la terminal **La cantidad de caracteres del nombre de la fruta es mayor a cinco.** si el length de la variable `fruta` es mayor a cinco.
-Imprime **La cantidad de caracteres del nombre de la fruta es menor o igual a cinco.**
+Imprime **La cantidad de caracteres del nombre de la fruta es menor o igual a cinco.** de lo contrario.
 
 Comprueba si tu programa funciona correctamente ejecutando el siguiente comando:
 

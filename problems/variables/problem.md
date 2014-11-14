@@ -19,7 +19,7 @@ var example = 'una string';
 
 Nota que empieza con la palabra reserva `var` y usa el signo de igualdad entre en nombre de la variable y el valor que referencia.
 
-# El ejercicio
+## El ejercicio
 
 Crea un archivo llamado `variables.js`
 

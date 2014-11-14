@@ -1,28 +1,28 @@
 ---
 
-# NUMBER TO STRING
+# NÚMERO A STRING
 
-Sometimes you will need to turn a number into a string.
+A veces necesitarás convertir un número a una string.
 
-In those instances you will use the `.toString()` method. Here's an example:
+En esos casos, usarás el método `toString`. A continuación un ejemplo:
 
 ```js
 var n = 256;
 n.toString();
 ```
 
-## The challenge
+## El ejercicio
 
-Create a file named `number-to-string.js`.
+Crea un archivo llamado `numero-a-string.js`.
 
-In that file define a variable named `n` that references the number `128`;
+En ese archivo define una variable llamada `n` que referencie el número `128`;
 
-Call the `.toString()` method on the `n` variable.
+LLama al método `toString` de esa variable `n`.
 
-Use `console.log()` to print the results of the `.toString()` method to the terminal.
+Utiliza `console.log` para imprimir los resultados de `toString()` a la terminal.
 
-Check to see if your program is correct by running this command:
+Comprueba si tu programa es correcto ejecutando el siguiente comando:
 
-`javascripting verify number-to-string.js`
+`javascripting verify numero-a-string.js`
 
 ---

@@ -1,11 +1,11 @@
 ---
 
-# THAT NUMBER IS NOW A STRING!
+# EL NÚMERO PASÓ A SER UNA STRING!
 
-Excellent. Good work converting that number into a string.
+Excelente, ya sabemos cómo convertir cualquier número a string.
 
-In the next challenge we will take a look at **if statements**.
+En el siguiente ejercicio echaremos un vistazo a los **bloques condicionales**.
 
-Run `javascripting` in the console to choose the next challenge.
+Ejecuta `javascripting` en la consola para seleccionar el siguiente ejercicio.
 
 ---

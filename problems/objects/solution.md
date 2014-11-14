@@ -1,11 +1,13 @@
 ---
 
-# PIZZA OBJECT IS A GO.
+# EL OBJETO PIZZA ES UN ÉXITO.
 
-You sucessfully create an object!
+Creaste correctamente un objeto!
 
-In the next challenge we will focus on accessing object properties.
+Cómo habrás notado, los valores que pueden tomar las **llaves** de un objeto pueden ser cualquiera: un número, un array, una string, una función e incluso otro objeto.
 
-Run `javascripting` in the console to choose the next challenge.
+En el siguiente ejercicio nos concentraremos en acceder a propiedades de los objetos.
+
+Ejecuta `javascripting` en la consola para seleccionar el siguiente ejercicio.
 
 ---

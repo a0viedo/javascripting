@@ -8,7 +8,7 @@ exports.solution = getFile(path.join(__dirname, 'solution.md'));
 
 exports.verify = function (args, cb) {
   run(args[0], function (err, result) {
-    if (/only pizza/.test(result)) cb(true);
+    if (/^\[ 'todo terreno', 'de carrera', 'hipster' \]\n$/.test(result)) cb(true);
     else cb(false);
   });
 };

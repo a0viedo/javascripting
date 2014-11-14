@@ -1,33 +1,31 @@
 ---
 
-# ROUNDING NUMBERS
+# REDONDEANDO NÚMEROS
 
-We can do basic math using familiar operators like `+`, `-`, `*`, `/`, and `%`.
+Los operadores básicos son `+`, `-`, `*`, `/`, y `%`.
 
-For more complex math, we can use the `Math` object.
+Para operaciones más complejas, podemos usar el objeto `Math`.
 
-In this challenge we'll use the `Math` object to round numbers.
+## El ejercicio:
 
-## The challenge:
+Crea un archivo llamado redondeando-numeros.js.
 
-Create a file named rounding-numbers.js.
+En ese archivo define una variable llamada `decimal` que referencie el número decimal `1.5`.
 
-In that file define a variable named `roundUp` that references the float `1.5`.
+Usaremos el método `Math.round` para redondear el número.
 
-We will use the `Math.round()` method to round the number up.
-
-An example of using `Math.round()`:
+Un ejemplo de `Math.round`:
 
 ```js
 Math.round(0.5);
 ```
 
-Define a second variable named `rounded` that references the output of the `Math.round()` method, passing in the `roundUp` variable as the argument.
+Define una segunda variable llamada `redondeado` que referencie lo que retorna el método `Math.round()`, pasando la variable `decimal` cómo argumento.
 
-Use `console.log()` to print that number to the terminal.
+Utiliza `console.log` para imprimir el número a la terminal.
 
-Check to see if your program is correct by running this command:
+Comprueba si tu programa es correcto ejecutando el siguiente commando:
 
-`javascripting verify rounding-numbers.js`
+`javascripting verify redondeando-numeros.js`
 
 ---

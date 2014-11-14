@@ -1,11 +1,11 @@
 ---
 
-# CORRECT. PIZZA IS THE ONLY FOOD.
+# CORRECTO! LOS HIPSTERS TIENEN SU PROPIO TIPO DE BICICLETAS
 
-Good job accessing that property.
+Buen trabajo accediendo a esa propiedad.
 
-The next challenge is all about **functions**.
+El siguiente ejercicio es completamente acerca de **funciones**.
 
-Run `javascripting` in the console to choose the next challenge.
+Ejecuta `javascripting` en la consola para seleccionar el siguiente ejercicio.
 
 ---

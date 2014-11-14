@@ -21,15 +21,12 @@ console.log(ejemplo(5))
 ```
 
 El ejemplo anterior asume que la función `ejemplo` recibirá un número cómo argumento –– input –– y retornará el número multiplicado por 2.
-The above example assumes that the `example` function will take a number as an argument –– as input –– and will return that number multiplied by 2.
 
 ## El ejercicio:
 
 Crea una archivo llamando funciones.js
 
 En ese archivo, define una función llamada `comer` que reciba un argumento llamado `fruta` que será una string.
-In that file, define a function named `eat` that takes an argument named `food`  
-that is expected to be a string.
 
 Dentro de la función, retorna el argumento `food` de la siguiente manera:
 
@@ -37,7 +34,7 @@ Dentro de la función, retorna el argumento `food` de la siguiente manera:
 return 'las ' + fruta + ' son ricas.';
 ```
 
-Dentro de los parentesis de `console.log()`, llama a la función `eat()` con la string `bananas` cómo argumento.
+Dentro de los paréntesis de `console.log()`, llama a la función `eat()` con la string `bananas` cómo argumento.
 
 Comprueba si tu programa es correcto ejecutando el siguiente comando:
 

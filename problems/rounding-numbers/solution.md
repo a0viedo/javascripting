@@ -1,11 +1,11 @@
 ---
 
-# THAT NUMBER IS ROUNDED
+# ESE NÚMERO ESTÁ REDONDEADO
 
-Yep, you just rounded the number `1.5` to `2`. Good job.
+¡Redondeaste el número `1.5` a `2`!
 
-In the next challenge we will turn a number into a string.
+En el siguiente ejercicio convertiremos un número a una string.
 
-Run `javascripting` in the console to choose the next challenge.
+Ejecuta `javascripting` en la consola para seleccionar el siguiente ejercicio.
 
 ---

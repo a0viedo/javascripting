@@ -2,7 +2,7 @@
 
 # LO HICISTE!
 
-Todo lo que esté dentro de los parentesis de `console.log()` será impreso a la terminal.
+Todo lo que esté dentro de los paréntesis de `console.log()` será impreso a la terminal.
 
 Entonces esto: 
 
